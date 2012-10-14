@@ -1,0 +1,1 @@
+./script/linkdesktopfiles.sh
