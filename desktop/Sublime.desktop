@@ -1,8 +1,8 @@
 #!/usr/bin/env xdg-open
 [Desktop Entry]
 Encoding=UTF-8
-Name=Sublime Text 2
 GenericName=Advanced Text Editor
+Name=Sublime Text 2
 Exec=/home/tobias/Applications/SublimeText2/sublime_text
 Icon=/home/tobias/Develop/proj/deskshort/icon/sublime_text-icon.png
 Type=Application
