@@ -16,3 +16,4 @@ TargetDir="/home/tobias/.local/share/applications"
 
 
 cp --link --force "$Dir/"* "$TargetDir"
+kbuildsycoca4

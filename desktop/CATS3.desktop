@@ -5,5 +5,5 @@ Type=Application
 Terminal=false
 Exec=~/Applications/cats3/CATS3
 Name=CATS3
-Icon=~/Applications/cats3/CATS_3.png
+Icon=/home/tobias/Develop/proj/deskshort/icon/cats3-icon.png
 Categories=Office;Multimedia;

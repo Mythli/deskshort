@@ -2,7 +2,7 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Sublime Text 2
-Exec=~/Applications/SublimeText2/sublime_text
-Icon=~/Applications/SublimeText2/Icon/48x48/sublime_text.png
+Exec=/home/tobias/Applications/SublimeText2/sublime_text
+Icon=/home/tobias/Develop/proj/deskshort/icon/sublime_text-icon.png
 Type=Application
-Categories=Development;
+Categories=Development;Utilities;
