@@ -4,6 +4,6 @@ Encoding=UTF-8
 GenericName=Advanced Text Editor
 Name=Sublime Text 2
 Exec=/home/tobias/Applications/SublimeText2/sublime_text
-Icon=/home/tobias/Develop/proj/deskshort/icon/sublime_text-icon.png
+Icon=/home/tobias/Entwicklung/deskshort/icon/sublime_text-icon.png
 Type=Application
 Categories=Development;Utilities;

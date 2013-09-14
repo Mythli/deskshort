@@ -4,6 +4,6 @@ Encoding=UTF-8
 Name=Teamspeak 3
 GenericName=VOIP Client
 Exec=~/Applications/TeamSpeak3-Client-linux_amd64/ts3client_linux_amd64
-Icon=/home/tobias/Develop/proj/deskshort/icon/teamspeak3-icon.png
+Icon=/home/tobias/Entwicklung/deskshort/icon/teamspeak3-icon.png
 Type=Application
 Categories=Multimedia;Internet;

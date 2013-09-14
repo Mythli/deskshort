@@ -4,6 +4,6 @@ Encoding=UTF-8
 Name=JDownloader
 GenericName=Download Manager
 Exec=java -jar /home/tobias/Applications/JDownloader/JDownloader.jar
-Icon=/home/tobias/Develop/proj/deskshort/icon/jdownloader-icon.png
+Icon=/home/tobias/Entwicklung/deskshort/icon/jdownloader-icon.png
 Type=Application
 Categories=Internet;
